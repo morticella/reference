@@ -11,3 +11,7 @@ ng serve
 ```
 
 ### [Angular CLI](https://cli.angular.io/)
+
+### [JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+### [TS reference](ts.md)
