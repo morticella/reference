@@ -14,4 +14,6 @@ ng serve
 
 ### [JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
+### [RXJS reference](https://rxjs-dev.firebaseapp.com/api)
+
 ### [TS reference](ts.md)
