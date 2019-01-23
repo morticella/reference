@@ -12,6 +12,10 @@ ng serve
 
 ### [Angular CLI](https://cli.angular.io/)
 
+### [Angular Material](https://material.angular.io/components/categories)
+
+### [Material Icon](https://material.io/tools/icons/?style=baseline)
+
 ### [JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ### [RXJS reference](https://rxjs-dev.firebaseapp.com/api)
