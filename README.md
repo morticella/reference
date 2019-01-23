@@ -22,6 +22,8 @@ ng serve
 
 ### [TS reference](ts.md)
 
+# Angular CLI
+
 ## Add a component to another module example
 
 ```
