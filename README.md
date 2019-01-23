@@ -21,3 +21,9 @@ ng serve
 ### [RXJS reference](https://rxjs-dev.firebaseapp.com/api)
 
 ### [TS reference](ts.md)
+
+## Add a component to another module example
+
+```
+ng g c dashboard/main/reports/listReports --module ../reports.module
+```
