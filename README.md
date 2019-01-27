@@ -20,7 +20,7 @@ ng serve
 
 ### [RXJS reference](https://rxjs-dev.firebaseapp.com/api)
 
-### [TS reference](TypeScript.md)
+### [TS reference](https://github.com/morticella/reference/wiki/TypeScript/)
 
 # Angular CLI
 
