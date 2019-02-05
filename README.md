@@ -18,6 +18,8 @@ ng serve
 
 ### [JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
+* [Front or Back end calulations?](https://github.com/morticella/reference/wiki/Calculation-in-Front-End)
+
 ### [RXJS reference](https://github.com/morticella/reference/wiki/RxJs)
 
 ### [TS reference](https://github.com/morticella/reference/wiki/RxJs)
