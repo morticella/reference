@@ -32,6 +32,9 @@ ng serve
 ng g c dashboard/main/reports/listReports --module ../reports.module
 ```
 
+### [GIT GUI COMMANDS](https://git-scm.com/docs)
+
+
 ## Legacy
 
 ### [Angular JS](https://github.com/morticella/reference/wiki/Angular-JS)
